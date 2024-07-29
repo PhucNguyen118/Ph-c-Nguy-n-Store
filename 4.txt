@@ -1,0 +1,4 @@
+cd /path/to/phucapple
+git init
+git add .
+git commit -m "Initial commit"
