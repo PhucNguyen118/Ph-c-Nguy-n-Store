@@ -1,2 +1,2 @@
-git remote add origin https://github.com/<PhucNguyen118>/<Phúc Nguyễn Store>.git
+git remote add origin https://github.com/<PhucNguyen118>/<PhucNguyenStore>.git
 git push -u origin main
