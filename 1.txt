@@ -1,0 +1,6 @@
+/phucapple
+    /css
+        styles.css
+    /images
+        image.jpg
+    index.html
